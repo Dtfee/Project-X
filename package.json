@@ -1,0 +1,28 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server test.html"
+},
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtfee/Project-X.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dtfee/Project-X/issues"
+  },
+  "homepage": "https://github.com/Dtfee/Project-X#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+  }
+  
+ 
+
